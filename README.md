@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Teja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ssriramteja&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramanjaneya-karnati&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ramanjaneya Karnati" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssriramteja&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Teja" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/ssriramteja"><img alt="Teja's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ramanjaneya-karnati&custom_title=Ramanjaneya%20Karnati's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ssriramteja"><img alt="Teja's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ssriramteja&custom_title=Sri Teja%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
