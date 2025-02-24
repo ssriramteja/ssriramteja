@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<!---
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/ssriramteja)
 
 - 📝 I regularly write articles on **Data Engineering**, **Machine Learning**, and **Cloud Platforms**
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **ETL Pipelines**, **Big Data**, and **Data Analytics**
 
 - 📫 How to reach me: **ssingar2@charlotte.edu**
-
+--->
 
 
 
