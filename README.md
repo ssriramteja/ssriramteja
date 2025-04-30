@@ -1,4 +1,4 @@
-# Hello I'm Sriram Teja <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hello I'm Sriram Teja S<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
 
