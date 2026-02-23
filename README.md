@@ -79,7 +79,7 @@
 ## 🎓 Education
 
 ```
-🎓 Master of Science — Computer Science
+🎓 Master of Science — Data Science
    University of North Carolina at Charlotte
    Machine Learning · NLP · Neural Networks · Big Data Analytics · Data Warehousing
 ```
@@ -91,7 +91,6 @@
 - 🔭 Currently working on: **AI Engineering Portfolio — 10 production-grade projects**
 - 🌱 Currently learning: **Agentic AI systems, LLM evaluation frameworks, LLM fine-tuning**
 - 💬 Ask me about: **RAG systems, Clinical NLP, MLOps, LLM fine-tuning, PySpark ETL**
-- 📫 Reach me at: **tejas70438@gmail.com**
 - ⚡ Fun fact: I process more clinical notes in code than most doctors see in a day 🏥
 
 ---
