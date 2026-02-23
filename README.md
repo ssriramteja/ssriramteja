@@ -17,19 +17,6 @@
 
 ---
 
-## 🚀 Featured Portfolio Projects
-
-| # | Project | Stack | Demo |
-|---|---------|-------|------|
-| 🏥 | [Clinical RAG Chatbot](https://github.com/yourusername/01-clinical-rag-chatbot) | LangChain · ClinicalBERT · FAISS · Groq · FastAPI | [![Streamlit](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://github.com/yourusername/01-clinical-rag-chatbot) |
-| 🔬 | [Medical OCR Pipeline](https://github.com/yourusername/09-ocr-cv-pipeline) | OpenCV · YOLOv8 · Tesseract · spaCy · FastAPI | [![Streamlit](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://github.com/yourusername/09-ocr-cv-pipeline) |
-| 🧬 | [PHI De-identification](https://github.com/yourusername/04-phi-deidentification) | spaCy · HuggingFace · BERT · Streamlit | [![Streamlit](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://github.com/yourusername/04-phi-deidentification) |
-| 📊 | [RAG Evaluation Framework](https://github.com/yourusername/08-rag-evaluation) | RAGAS · LangChain · Plotly · Streamlit | [![Streamlit](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://github.com/yourusername/08-rag-evaluation) |
-| 🦙 | [LLM Fine-Tuning QLoRA](https://github.com/yourusername/06-llm-finetuning-lora) | Mistral-7B · LoRA · QLoRA · PEFT · TRL | [![Colab](https://img.shields.io/badge/Open-Colab-orange?style=flat-square&logo=googlecolab)](https://github.com/yourusername/06-llm-finetuning-lora) |
-| ⚙️ | [MLOps Pipeline](https://github.com/yourusername/02-mlops-pipeline) | Airflow · MLflow · Docker · GitHub Actions | [![CI](https://img.shields.io/badge/CI-Passing-success?style=flat-square)](https://github.com/yourusername/02-mlops-pipeline) |
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🧠 AI / ML / LLM
@@ -95,78 +82,7 @@
 
 ---
 
-## 🌐 Where to Find Me
 
-<p>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tejas70438@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/yourusername" target="_blank">
-    <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
-</p>
 
----
-
-## 📊 GitHub Stats
-
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Teja's GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=algolia"
-        height="192px"/>
-    </a>
-    <br/>
-    &nbsp;
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=algolia"
-      alt="Top Languages"
-      height="192px"/>
-    <br/>
-    <b>Note:</b> Top languages reflects public code only and does not represent full skill level.
-  </p>
-</details>
-
-<details>
-  <summary><b>🔥 Contribution Streak</b></summary>
-  <br/>
-  <p align="center">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=algolia"
-      alt="GitHub Streak"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <a href="https://github.com/yourusername">
-    <img alt="Teja's Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&custom_title=Teja%20Contribution%20Graph"/>
-  </a>
-</details>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&column=7&margin-w=10" alt="trophies"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <h1 align="center">Thank You for Visiting! 🤵</h1>
