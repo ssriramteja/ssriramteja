@@ -46,30 +46,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
-
-## 💼 Experience
-
-```
-🏢 Optum (UnitedHealth Group)          AI Engineer / NLP Data Scientist      Jun 2024 – Present
-   → Clinical RAG pipeline · BioBERT/ClinicalBERT · GPT-4 + LangChain · FAISS · FastAPI
-
-🏢 Amazon                              Machine Learning Engineer              Jun 2022 – Aug 2023
-   → Fleet analytics ML · OCR pipeline · XGBoost/LightGBM · PySpark ETL · SageMaker
-
-🏢 Pepperfry                           Data Scientist                         Sep 2019 – Jun 2022
-   → Demand forecasting · A/B testing · Pricing optimization · GCP BigQuery
-```
-
----
-
-## 🎓 Education
-
-```
-🎓 Master of Science — Data Science
-   University of North Carolina at Charlotte
-   Machine Learning · NLP · Neural Networks · Big Data Analytics · Data Warehousing
-```
 
 ---
 
