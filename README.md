@@ -46,12 +46,6 @@
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 Email: tejasriram78@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/sriramteja8/
-
----
 
 ⭐️ *Always open to opportunities in Data Engineering, Cloud, and Data Platforms!*
 
