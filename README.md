@@ -1,7 +1,3 @@
-# Hello, I'm Sriram Teja 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
-<img align="right" alt="AI Engineer Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 # 👋 Hi, I'm Sriram Teja
 
