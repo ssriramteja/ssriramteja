@@ -2,52 +2,62 @@
 
 <img align="right" alt="AI Engineer Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🤖 AI Engineer | Data Scientist | ML Engineer
 
-<p align="left">
-  - 🧠 <strong>Generative AI & LLMs</strong>: Building RAG systems, fine-tuning Llama/Mistral with LoRA/QLoRA, prompt engineering with GPT-4, Gemini & Groq. <br/>
-  - 🏥 <strong>Healthcare NLP</strong>: Clinical NER, PHI de-identification, BioBERT/ClinicalBERT, medical document classification at Optum. <br/>
-  - ⚙️ <strong>MLOps</strong>: End-to-end ML pipelines with MLflow, Airflow, Docker, Kubernetes, GitHub Actions CI/CD. <br/>
-  - ☁️ <strong>Cloud Platforms</strong>: AWS (SageMaker, Glue, S3, Lambda), GCP (Vertex AI, BigQuery), Azure (ML Studio, AKS, Synapse). <br/>
-  - 📊 <strong>Data Engineering</strong>: PySpark, Kafka, Hadoop, Snowflake, Databricks, Redshift for large-scale ETL pipelines. <br/>
-  - 👁️ <strong>Computer Vision</strong>: OpenCV, YOLOv8, Tesseract OCR for document intelligence and image pipelines. <br/>
-</p>
+# 👋 Hi, I'm Sriram Teja
 
-<br/>
+🚀 AWS Data Engineer | Data Platform Engineer | Analytics Engineer  
+
+---
+
+## 🔥 About Me
+
+- ⚙️ **Data Engineering & Pipelines:** Designed scalable batch and real-time ETL/ELT pipelines using AWS Glue, PySpark, EMR, and Databricks to process high-volume data across logistics, finance, and retail domains.  
+- 📊 **Analytics & BI:** Built enterprise dashboards using Amazon QuickSight and React-based APIs to deliver insights on fleet performance, financial reconciliation, and supply chain efficiency.  
+- 🔄 **Streaming & Real-Time Processing:** Developed real-time pipelines using Kafka, AWS Kinesis, and Spark Structured Streaming for near real-time analytics.  
+- 🧪 **Data Quality & Anomaly Detection:** Implemented validation frameworks and anomaly detection (statistical + rule-based) to ensure accuracy and compliance.  
+- ☁️ **Cloud Platforms:** Hands-on with AWS (Glue, Lambda, EMR, Redshift, S3, Kinesis, Step Functions), with exposure to Azure (Data Lake, Synapse, Databricks).  
+- ⚙️ **MLOps & Automation:** Built CI/CD pipelines using AWS CodePipeline, Jenkins, Terraform, and Docker for automated deployments.  
+- 🗄️ **Data Warehousing & Modeling:** Designed optimized schemas and queries in Snowflake, Redshift, and PostgreSQL.  
+- 🔐 **Data Governance & Security:** Implemented IAM roles, encryption (KMS), and VPC configurations to secure sensitive datasets.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI / ML / LLM
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### ⚙️ Programming & Data Processing
+`Python` `SQL` `Scala` `PySpark` `Spark` `Hadoop`
 
-### 🗄️ Data Engineering & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+### 🗄️ Data Engineering & Warehousing
+`AWS Glue` `EMR` `Redshift` `Snowflake` `Databricks` `Kafka` `Airflow`
 
-### 🚀 MLOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### ☁️ Cloud Platforms
+`AWS (S3, Lambda, Kinesis, Step Functions, IAM, CloudWatch)`  
+`Azure (Data Lake, Synapse, Databricks)`
 
+### 🚀 MLOps & DevOps
+`Docker` `Terraform` `Jenkins` `AWS CodePipeline` `GitHub` `CI/CD`
+
+### 📊 Visualization & Analytics
+`Amazon QuickSight` `Tableau` `Power BI`
 
 ---
+
+## 📌 Experience Highlights
+
+- 🚚 Built fleet analytics platform at Ryder using real-time and batch pipelines to track vehicle performance and optimize operations.  
+- 💳 Developed financial reconciliation pipelines at Braintree to match payouts with bank transactions, improving accuracy and eliminating manual effort.  
+- 🛒 Engineered supply chain data pipelines at Best Buy to enable inventory tracking, forecasting, and operational insights.  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: tejasriram78@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sriramteja8/
+
+---
+
+⭐️ *Always open to opportunities in Data Engineering, Cloud, and Data Platforms!*
 
 ## 📈 What I'm Building
 
